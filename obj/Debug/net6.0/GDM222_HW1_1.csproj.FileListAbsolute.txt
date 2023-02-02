@@ -1,0 +1,15 @@
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\bin\Debug\net6.0\GDM222_HW1_1.exe
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\bin\Debug\net6.0\GDM222_HW1_1.deps.json
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\bin\Debug\net6.0\GDM222_HW1_1.runtimeconfig.json
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\bin\Debug\net6.0\GDM222_HW1_1.dll
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\bin\Debug\net6.0\GDM222_HW1_1.pdb
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\obj\Debug\net6.0\GDM222_HW1_1.csproj.AssemblyReference.cache
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\obj\Debug\net6.0\GDM222_HW1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\obj\Debug\net6.0\GDM222_HW1_1.AssemblyInfoInputs.cache
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\obj\Debug\net6.0\GDM222_HW1_1.AssemblyInfo.cs
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\obj\Debug\net6.0\GDM222_HW1_1.csproj.CoreCompileInputs.cache
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\obj\Debug\net6.0\GDM222_HW1_1.dll
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\obj\Debug\net6.0\refint\GDM222_HW1_1.dll
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\obj\Debug\net6.0\GDM222_HW1_1.pdb
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\obj\Debug\net6.0\GDM222_HW1_1.genruntimeconfig.cache
+C:\Work_Kmutt\Y2_2\GDM222\Hw1\GDM222_HW1_1\obj\Debug\net6.0\ref\GDM222_HW1_1.dll
